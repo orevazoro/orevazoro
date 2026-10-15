@@ -14,9 +14,9 @@
 
 | Project | What it is |
 | --- | --- |
-| [**CamBuzz**](https://github.com/orevazoro/cambuzz) | A personalized campus news platform and interactive web application designed to centralize university announcements, student updates, and events using a lightweight backend pipeline. |
+| [**CamBuzz**](https://campbuzz.info/) | A personalized campus news platform and interactive web application designed to centralize university announcements, student updates, and events using a lightweight backend pipeline. |
 | [**AnnaDATA**](https://github.com/orevazoro/annadata) | An offline-first agricultural digital twin web application integrating SQLite crop ledgers, Open-Meteo weather APIs, local AI chat models, and leaf diagnostic tools for smart farming. |
-| [**Portfolio-OS**](https://github.com/orevazoro/portfolio-os) | An interactive 3D portfolio web application built with responsive UI components, dynamic background audio engines, and smooth model rendering. |
+| [**Portfolio-OS**](https://portfolio-os-yubz.vercel.app/) | An interactive 3D portfolio web application built with responsive UI components, dynamic background audio engines, and smooth model rendering. |
 
 <div align="center">
 
