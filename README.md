@@ -1,12 +1,12 @@
 <div align="center">
 
-![Intro](./assets/hero.svg?v=1)
+![Intro](./hero.svg?v=2)
 
-![About](./assets/about-life.svg?v=1)
+![About](./about-life.svg?v=2)
 
-![Stack](./assets/stack.svg?v=1)
+![Stack](./stack.svg?v=2)
 
-![ID](./assets/id-dashboard.svg?v=1)
+![ID](./id-dashboard.svg?v=2)
 
 </div>
 
@@ -20,8 +20,6 @@
 
 <div align="center">
 
-![Connect](./assets/connect.svg?v=1)
+![Connect](./connect.svg?v=2)
 
-**[LinkedIn](https://www.linkedin.com/in/swayam-swastik-sahoo-39ab043a9/)** &nbsp;|&nbsp; **[Instagram](https://www.instagram.com/quietly_sleek/)** &nbsp;|&nbsp; **[GitHub](https://github.com/orevazoro)**
-
-</div>
+**[LinkedIn](https://www.linkedin.com/in/swayam-swastik-sah
