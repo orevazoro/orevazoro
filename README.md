@@ -22,4 +22,6 @@
 
 ![Connect](./connect.svg?v=2)
 
-**[LinkedIn](https://www.linkedin.com/in/swayam-swastik-sah
+[LinkedIn](https://www.linkedin.com/in/swayam-swastik-sahoo-39ab043a9/) | [Instagram](https://www.instagram.com/quietly_sleek/) | [GitHub](https://github.com/orevazoro)
+
+</div>
